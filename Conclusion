@@ -1,0 +1,3 @@
+For 2022, I got a range of Indian GDP as it can be as low as USD 2974.199 B and as high as USD 3439.877 B at 99% confidence level.
+Official Indian GDP for 2022 was declared USD 3416.65 B which lies in the confidence interval of my ARIMA model. Hence my model succeded
+to predict GDP with high accuracy. From 2022 till 2031, Indian GDP is predicted at 99% confidence level.
